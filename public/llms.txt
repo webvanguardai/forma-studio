@@ -1,0 +1,20 @@
+# Forma Studio
+
+> Award-winning interior design studio in Dubai.
+
+## About
+Forma Studio is a Dubai-based interior design practice founded in 2016. We specialize in luxury residential, commercial, and hospitality spaces across Downtown Dubai, DIFC, and Business Bay.
+
+## Services
+- Full Interior Design
+- FF&E Procurement
+- Space Planning
+- Project Management
+
+## Contact
+- Website: https://forma-studio.vercel.app
+- Location: Downtown Dubai, UAE
+- WhatsApp: +971XXXXXXXXX
+
+## Portfolio
+120+ completed projects across residential, commercial, and hospitality sectors. 3 design awards.
