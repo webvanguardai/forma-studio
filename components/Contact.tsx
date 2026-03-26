@@ -133,7 +133,7 @@ export default function Contact() {
               Downtown Dubai, UAE
             </p>
             <a
-              href="https://wa.me/971XXXXXXXXX"
+              href="https://wa.me/971585324519"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 text-charcoal hover:text-bronze transition-colors duration-300"
